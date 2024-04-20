@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://socialify.git.ci/NapNeko/NapCatReforged/image?description=1&language=1&logo=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F165024194&name=1&stargazers=1&theme=Auto" alt="NapCatReforged" width="640" height="320" />
+  <img src="https://socialify.git.ci/NapNeko/NapCatReforged/image?name=1&description=1&descriptionEditable=NapCatQQ%20%E7%9A%84%E6%A8%A1%E5%9D%97%E5%8C%96%E7%89%88%E6%9C%AC&font=Source%20Code%20Pro&forks=1&issues=1&language=1&logo=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F165024194&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Auto" alt="NapCatReforged" width="640" height="320" />
 </div>
 
 > [!CAUTION]\
