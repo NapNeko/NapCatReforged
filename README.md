@@ -2,6 +2,9 @@
   <img src="https://socialify.git.ci/NapNeko/NapCatReforged/image?description=1&language=1&logo=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F165024194&name=1&stargazers=1&theme=Auto" alt="NapCatReforged" width="640" height="320" />
 </div>
 
+> [!CAUTION]\
+> 请不要在 QQ 官方群聊和任何影响力较大的简中互联网平台（包括但不限于:B站，微博，知乎，抖音等）发布和讨论 __*任何*__ 与本程序存在相关性的信息
+
 ## 这是什么？和 `NapCatQQ` 什么关系？
 
 这个项目的起因是因为我与组内另外两位开发者的部分开发意见不合，为了避免打扰到主仓库的开发而选择另起炉灶所制成的产物。
