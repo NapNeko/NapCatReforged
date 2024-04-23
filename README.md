@@ -18,7 +18,10 @@
 
 ## 会开源吗？
 
-会的。计划在第一版 Beta 版发布后会公开相应的源码仓库。
+会的。下面是对应包的开源入口，点击即达：
+
+* [`@napneko/app`](https://github.com/NapNeko/app)
+* [`@napneko/adapter-onebot`](https://github.com/NapNeko/adapter-onebot)
 
 不过由于 `@napneko/core` 涉及到相对底层的内容，因此依旧选择闭源，还请见谅。
 
