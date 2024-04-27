@@ -29,7 +29,7 @@
 
 ## 使用文档？
 
-具体的使用文档会在第一版 Beta 版发布后放置于本仓库的 `docs` 目录。
+请访问 [https://napneko.github.io/NapCatReforged] 查看最新文档。
 
 ## 如何参与开发？
 
