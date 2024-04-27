@@ -11,6 +11,9 @@ actions:
     icon: lightbulb
     link: ./start/
     type: primary
+  - text: 配置文件
+    icon: file
+    link: ./config/
 
 copyright: false
 footer: false

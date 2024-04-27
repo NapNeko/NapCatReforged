@@ -1,3 +1,6 @@
+---
+icon: file
+---
 # 配置文件
 
 NapCatReforged 使用 [YAML](https://yaml.org/) 作为配置文件格式。本章将给出完整的、带注释的配置文件供您参考。

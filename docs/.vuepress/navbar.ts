@@ -9,7 +9,7 @@ export default navbar([
   },
   {
     text: "配置文件",
-    icon: "lightbulb",
+    icon: "file",
     prefix: "/config/",
     link: "/config/",
   },

@@ -1,3 +1,6 @@
+---
+icon: download
+---
 # 安装 NapCatReforged
 
 目前 NapCatReforged 有两个版本：

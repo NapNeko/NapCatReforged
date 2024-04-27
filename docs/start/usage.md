@@ -1,3 +1,6 @@
+---
+icon: floppy-disk
+---
 # 运行 NapCatReforged
 
 ## Windows 用户

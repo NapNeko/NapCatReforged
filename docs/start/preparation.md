@@ -1,3 +1,6 @@
+---
+icon: list
+---
 # 准备工作
 
 由于 NapCatQQ 依赖官方的 QQNT 运行，所以首先需要在系统上安装 QQNT。
