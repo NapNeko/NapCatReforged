@@ -35,7 +35,7 @@ jobs:
           NODE_OPTIONS: --max_old_space_size=8192
         run: |-
           npm run docs:build
-          > src/.vuepress/dist/.nojekyll
+          > docs/.vuepress/dist/.nojekyll
 
       - name: 上传文档
         uses: actions/upload-pages-artifact@v3
