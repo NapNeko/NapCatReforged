@@ -7,4 +7,10 @@ export default navbar([
     prefix: "/start/",
     link: "/start/",
   },
+  {
+    text: "配置文件",
+    icon: "lightbulb",
+    prefix: "/config/",
+    link: "/config/",
+  },
 ]);

@@ -23,6 +23,11 @@ export default sidebar({
           link: 'usage',
         },
       ]
+    },
+    {
+      text: '配置文件',
+      prefix: 'config/',
+      link: 'config/'
     }
   ],
 });
