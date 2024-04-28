@@ -23,7 +23,5 @@ icon: download
 | 64 位 Windows  | `napcatqq-win32-x64.zip`    |
 | 64 位 Linux    | `napcatqq-linux-x64.zip`    |
 | arm64 位 Linux | `napcatqq-linux-arm64.zip`  |
-| Intel 版 macOS | `napcatqq-darwin-x64.zip`   |
-| M 系列版 macOS  | `napcatqq-darwin-arm64.zip` |
 
 然后，将该压缩包内的内容解压到一个拥有读写权限的目录中，即完成 NapCatReforged 的安装。
