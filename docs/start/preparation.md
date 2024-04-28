@@ -5,6 +5,13 @@ icon: list
 
 由于 NapCatQQ 依赖官方的 QQNT 运行，所以首先需要在系统上安装 QQNT。
 
+## 如果你之前使用过 NapCatQQ
+
+由于本项目部分修改了文件与数据库结构，推荐您先备份 NapCatQQ 数据目录后再使用 NapCatReforged。
+
+* Windows 用户：一般在 `%APPDATA%\QQ\NapCat` 中。
+* Linux 用户：一般在 `~/.config/QQ/NapCat` 中。
+
 ## Windows 用户
 
 请从 [QQ 官网](https://im.qq.com/pcqq/index.shtml) 下载最新版的 **64 位** QQNT 并安装。
