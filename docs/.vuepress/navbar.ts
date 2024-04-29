@@ -13,4 +13,10 @@ export default navbar([
     prefix: "/config/",
     link: "/config/",
   },
+  {
+    text: "使用帮助",
+    icon: "circle-info",
+    prefix: "/help/",
+    link: "/help/",
+  },
 ]);

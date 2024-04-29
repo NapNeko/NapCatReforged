@@ -34,6 +34,19 @@ export default sidebar({
       prefix: 'config/',
       icon: 'file',
       link: 'config/'
+    },
+    {
+      text: '使用帮助',
+      prefix: 'help/',
+      icon: 'circle-info',
+      link: 'help/',
+      children: [
+        {
+          text: '滑块验证',
+          icon: 'sliders',
+          link: 'slider-verify',
+        },
+      ]
     }
   ],
 });
