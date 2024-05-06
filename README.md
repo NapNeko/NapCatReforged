@@ -39,6 +39,8 @@
 
 * [NapCatQQ](https://github.com/NapNeko/NapCatQQ)
 * [LLOneBot](https://github.com/LLOneBot/LLOneBot)
+* [OpenShamrock](https://github.com/whitechi73/OpenShamrock)
+* [Lagrange.Core](https://github.com/LagrangeDev/Lagrange.Core)
 * [OneBot v11](https://github.com/botuniverse/onebot-11)
 * [Kritor](https://github.com/KarinJS/kritor)
 
