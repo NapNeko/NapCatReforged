@@ -15,14 +15,16 @@
 
 最主要的区别在于以下两点：
 
-* ~~全模块化：用户可以自由选择需要搭配使用的模块~~ __*实现不了了！！！*__ 我给自己挖了一个好大的坑呜呜
+* 全模块化：用户可以自由选择需要搭配使用的模块 __*锐意制作中*__
+* 摒弃了 WebUI：因为我个人觉得没啥必要
 * ~~更漂亮的 CLI 输出与日志：可以在配置文件中配置输出的日志等级和是否写入至文件~~ 上游已经实现了
 
 ## 会开源吗？
 
-会的。下面是对应包的开源入口，点击即达：
+会的。下面是对应官方包的开源入口，点击即达：
 
-* [`@napneko/app`](https://github.com/NapNeko/app)
+* [`@napneko/app`](https://github.com/NapNeko/app/tree/master/packages/app)
+* [`@napneko/loader`](https://github.com/NapNeko/app/tree/master/packages/loader)
 * [`@napneko/adapter-onebot`](https://github.com/NapNeko/adapter-onebot)
 
 不过由于 `@napneko/core` 涉及到相对底层的内容，因此依旧选择闭源，还请见谅。
